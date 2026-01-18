@@ -1,0 +1,84 @@
+{
+  "nav": {
+    "home": "首页",
+    "brokers": "经纪商",
+    "compare": "对比",
+    "insights": "洞察",
+    "rebates": "返佣",
+    "about": "关于 Cloud Speed",
+    "login": "登录",
+    "signup": "注册",
+    "dashboard": "控制台",
+    "logout": "退出登录"
+  },
+  "hero": {
+    "title": "降低你的交易成本，把利润留在自己口袋。",
+    "subtitle": "对比全球受监管经纪商的点差、佣金与返佣方案，返佣由经纪商直接支付。",
+    "cta1": "开始智能对比",
+    "cta2": "了解返佣机制"
+  },
+  "common": {
+    "openWithRebate": "返佣开户",
+    "viewBroker": "查看经纪商",
+    "viewAllBrokers": "查看所有经纪商",
+    "visitSite": "访问官网",
+    "contactToList": "联系上线平台",
+    "learnMore": "了解更多",
+    "getStarted": "立即开始",
+    "continue": "继续",
+    "back": "返回",
+    "loading": "加载中...",
+    "noData": "暂无数据，稍后再来看看。",
+    "comingSoon": "即将上线",
+    "costUnit": "USD/手"
+  },
+  "compare": {
+    "step1": "交易品种",
+    "step2": "交易风格",
+    "step3": "成本偏好",
+    "step4": "推荐结果",
+    "recommendedTitle": "推荐经纪商",
+    "otherBrokersTitle": "其他适合的经纪商",
+    "execution": "成交质量",
+    "cost": "综合成本",
+    "match": "匹配度",
+    "autoRebate": "自动返佣",
+    "manualRebate": "手动返佣",
+    "seeDetails": "查看详情"
+  },
+  "brokers": {
+    "title": "全部经纪商",
+    "searchPlaceholder": "搜索经纪商名称...",
+    "regulator": "监管机构",
+    "minDeposit": "最低入金",
+    "platforms": "交易平台"
+  },
+  "rebates": {
+    "title": "返佣一览",
+    "subtitle": "对比不同经纪商在主要品种上的返佣水平（单位：USD / 手）。",
+    "instrument": "品种类别",
+    "accountType": "账户类型",
+    "rebatePerLot": "返佣（USD / 手）"
+  },
+  "insights": {
+    "title": "Cloud Speed 市场洞察",
+    "subtitle": "结合市场背景、交易成本与执行质量，为交易者提供 Cloud Speed 风格的中立视角。",
+    "today": "今天",
+    "thisWeek": "本周",
+    "goldVolatility": "黄金波动率走高",
+    "goldAnalysis": "近期 XAU/USD 在区间震荡并多次试探突破位置，波动加大时，点差与综合成本控制更为关键。",
+    "costAdvantage": "成本优势",
+    "forexStability": "欧元兑美元在关键位置震荡整理",
+    "forexAnalysis": "EUR/USD 正在关键支撑附近盘整，在央行政策不明朗的阶段，偏长线持仓更适合选择隔夜成本友好的账户类型。",
+    "stableExecution": "稳定执行",
+    "jpyWeakness": "美元兑日元接近潜在干预区间",
+    "jpyAnalysis": "在 USD/JPY 维持高位的环境下，官方干预风险提升，更需要选择监管完善且成交质量稳定的经纪商。",
+    "wellRegulated": "监管完善",
+    "marketView": "Cloud Speed 市场视图",
+    "lowestCostOn": "综合成本最低的经纪商",
+    "marketInsights": "市场洞察",
+    "suggestedBroker": "推荐经纪商",
+    "readyToTrade": "准备好降低你的交易成本了吗？",
+    "compareBrokers": "对比不同经纪商，为你的交易风格找到更低的综合交易成本。"
+  }
+}

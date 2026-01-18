@@ -1,0 +1,84 @@
+{
+  "nav": {
+    "home": "Ana səhifə",
+    "brokers": "Brokerlər",
+    "compare": "Müqayisə et",
+    "insights": "Analitika",
+    "rebates": "Ribatlar",
+    "about": "Cloud Speed haqqında",
+    "login": "Daxil ol",
+    "signup": "Qeydiyyat",
+    "dashboard": "Panel",
+    "logout": "Çıxış"
+  },
+  "hero": {
+    "title": "Ticarət xərclərinizi azaldın və daha çox gəlir saxlayın.",
+    "subtitle": "Lisenziyalı brokerlər üzrə spreed, komissiya və ribat səviyyələrini qlobal miqyasda müqayisə edin – ribat birbaşa broker tərəfindən ödənilir.",
+    "cta1": "Müqayisəyə başla",
+    "cta2": "Ribat haqqında öyrən"
+  },
+  "common": {
+    "openWithRebate": "Ribatlı hesab aç",
+    "viewBroker": "Brokerə bax",
+    "viewAllBrokers": "Bütün brokerlərə bax",
+    "visitSite": "Rəsmi sayt",
+    "contactToList": "Siyahıya əlavə üçün əlaqə",
+    "learnMore": "Daha çox öyrən",
+    "getStarted": "Başla",
+    "continue": "Davam et",
+    "back": "Geri",
+    "loading": "Yüklənir...",
+    "noData": "Məlumat hələ yoxdur.",
+    "comingSoon": "Tezliklə",
+    "costUnit": "USD/lot"
+  },
+  "compare": {
+    "step1": "Alətlər",
+    "step2": "Ticarət üslubu",
+    "step3": "Xərc üstünlüyü",
+    "step4": "Nəticələr",
+    "recommendedTitle": "Tövsiyə olunan broker(lər)",
+    "otherBrokersTitle": "Digər uyğun brokerlər",
+    "execution": "İcra keyfiyyəti",
+    "cost": "Xərc",
+    "match": "Uyğunluq",
+    "autoRebate": "Avto ribat",
+    "manualRebate": "Əl ilə ribat",
+    "seeDetails": "Ətraflı bax"
+  },
+  "brokers": {
+    "title": "Bütün brokerlər",
+    "searchPlaceholder": "Broker adını axtar...",
+    "regulator": "Tənzimləyici",
+    "minDeposit": "Minimum depozit",
+    "platforms": "Platformalar"
+  },
+  "rebates": {
+    "title": "Ribat icmalı",
+    "subtitle": "Əsas alətlər üzrə ribat səviyyələrini müqayisə edin (USD / lot).",
+    "instrument": "Alət növü",
+    "accountType": "Hesab tipi",
+    "rebatePerLot": "Ribat (USD / lot)"
+  },
+  "insights": {
+    "title": "Cloud Speed Insights",
+    "subtitle": "Market context, cost analysis, and execution views powered by Cloud Speed.",
+    "today": "Today",
+    "thisWeek": "This week",
+    "goldVolatility": "Gold showing increased volatility",
+    "goldAnalysis": "XAU/USD has been ranging with potential breakout signals. Higher volatility makes spread and net cost control more important.",
+    "costAdvantage": "Cost advantage",
+    "forexStability": "EUR/USD consolidating at key level",
+    "forexAnalysis": "EUR/USD is testing a key support zone with central bank policy in focus. Longer holding strategies may benefit from swap-friendly accounts.",
+    "stableExecution": "Stable execution",
+    "jpyWeakness": "USD/JPY approaching intervention zone",
+    "jpyAnalysis": "With USD/JPY elevated, intervention risk is higher. Traders may prefer brokers with strong regulation and execution quality.",
+    "wellRegulated": "Well regulated",
+    "marketView": "Cloud Speed Market View",
+    "lowestCostOn": "Lowest net cost on",
+    "marketInsights": "Market Insights",
+    "suggestedBroker": "Suggested broker",
+    "readyToTrade": "Ready to reduce your trading costs?",
+    "compareBrokers": "Compare brokers and find the lowest net cost for your trading style."
+  }
+}

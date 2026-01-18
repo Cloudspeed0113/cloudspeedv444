@@ -1,0 +1,84 @@
+{
+  "nav": {
+    "home": "Trang chủ",
+    "brokers": "Sàn giao dịch",
+    "compare": "So sánh",
+    "insights": "Phân tích",
+    "rebates": "Hoàn phí",
+    "about": "Về Cloud Speed",
+    "login": "Đăng nhập",
+    "signup": "Đăng ký",
+    "dashboard": "Bảng điều khiển",
+    "logout": "Đăng xuất"
+  },
+  "hero": {
+    "title": "Giảm chi phí giao dịch và giữ lại nhiều lợi nhuận hơn.",
+    "subtitle": "So sánh spread, commission và rebate của các sàn được quản lý trên toàn cầu – rebate được trả trực tiếp bởi sàn.",
+    "cta1": "Bắt đầu so sánh",
+    "cta2": "Tìm hiểu về rebate"
+  },
+  "common": {
+    "openWithRebate": "Mở tài khoản có rebate",
+    "viewBroker": "Xem chi tiết sàn",
+    "viewAllBrokers": "Xem tất cả sàn",
+    "visitSite": "Truy cập website",
+    "contactToList": "Liên hệ để được niêm yết",
+    "learnMore": "Tìm hiểu thêm",
+    "getStarted": "Bắt đầu ngay",
+    "continue": "Tiếp tục",
+    "back": "Quay lại",
+    "loading": "Đang tải...",
+    "noData": "Chưa có dữ liệu.",
+    "comingSoon": "Sắp ra mắt",
+    "costUnit": "USD/lot"
+  },
+  "compare": {
+    "step1": "Sản phẩm giao dịch",
+    "step2": "Phong cách giao dịch",
+    "step3": "Ưu tiên chi phí",
+    "step4": "Kết quả",
+    "recommendedTitle": "Sàn được đề xuất",
+    "otherBrokersTitle": "Các sàn phù hợp khác",
+    "execution": "Khớp lệnh",
+    "cost": "Chi phí",
+    "match": "Phù hợp",
+    "autoRebate": "Tự động hoàn phí",
+    "manualRebate": "Hoàn phí thủ công",
+    "seeDetails": "Xem chi tiết"
+  },
+  "brokers": {
+    "title": "Tất cả sàn",
+    "searchPlaceholder": "Tìm tên sàn...",
+    "regulator": "Cơ quan quản lý",
+    "minDeposit": "Tiền nạp tối thiểu",
+    "platforms": "Nền tảng giao dịch"
+  },
+  "rebates": {
+    "title": "Tổng quan rebate",
+    "subtitle": "So sánh mức rebate theo sản phẩm (USD / lot).",
+    "instrument": "Loại sản phẩm",
+    "accountType": "Loại tài khoản",
+    "rebatePerLot": "Rebate (USD / lot)"
+  },
+  "insights": {
+    "title": "Cloud Speed Insights",
+    "subtitle": "Market context, cost analysis, and execution views powered by Cloud Speed.",
+    "today": "Today",
+    "thisWeek": "This week",
+    "goldVolatility": "Gold showing increased volatility",
+    "goldAnalysis": "XAU/USD has been ranging with potential breakout signals. Higher volatility makes spread and net cost control more important.",
+    "costAdvantage": "Cost advantage",
+    "forexStability": "EUR/USD consolidating at key level",
+    "forexAnalysis": "EUR/USD is testing a key support zone with central bank policy in focus. Longer holding strategies may benefit from swap-friendly accounts.",
+    "stableExecution": "Stable execution",
+    "jpyWeakness": "USD/JPY approaching intervention zone",
+    "jpyAnalysis": "With USD/JPY elevated, intervention risk is higher. Traders may prefer brokers with strong regulation and execution quality.",
+    "wellRegulated": "Well regulated",
+    "marketView": "Cloud Speed Market View",
+    "lowestCostOn": "Lowest net cost on",
+    "marketInsights": "Market Insights",
+    "suggestedBroker": "Suggested broker",
+    "readyToTrade": "Ready to reduce your trading costs?",
+    "compareBrokers": "Compare brokers and find the lowest net cost for your trading style."
+  }
+}

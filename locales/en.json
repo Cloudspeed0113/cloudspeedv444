@@ -1,0 +1,84 @@
+{
+  "nav": {
+    "home": "Home",
+    "brokers": "Brokers",
+    "compare": "Compare",
+    "insights": "Insights",
+    "rebates": "Rebates",
+    "about": "About",
+    "login": "Log in",
+    "signup": "Sign up",
+    "dashboard": "Dashboard",
+    "logout": "Logout"
+  },
+  "hero": {
+    "title": "Reduce your trading costs and keep more of your profits.",
+    "subtitle": "Compare regulated brokers, spreads, commissions and rebates globally — with rebates paid directly by the broker.",
+    "cta1": "Launch Compare",
+    "cta2": "Learn about rebates"
+  },
+  "common": {
+    "openWithRebate": "Open with rebate",
+    "viewBroker": "View broker",
+    "viewAllBrokers": "View all brokers",
+    "visitSite": "Visit official site",
+    "contactToList": "Contact to list",
+    "learnMore": "Learn more",
+    "getStarted": "Get started",
+    "continue": "Continue",
+    "back": "Back",
+    "loading": "Loading...",
+    "noData": "No data available yet.",
+    "comingSoon": "Coming soon",
+    "costUnit": "USD/lot"
+  },
+  "compare": {
+    "step1": "Instruments",
+    "step2": "Trading style",
+    "step3": "Cost preference",
+    "step4": "Results",
+    "recommendedTitle": "Recommended broker(s)",
+    "otherBrokersTitle": "Other suitable brokers",
+    "execution": "Execution",
+    "cost": "Cost",
+    "match": "Match",
+    "autoRebate": "Auto Rebate",
+    "manualRebate": "Manual rebate",
+    "seeDetails": "See details"
+  },
+  "brokers": {
+    "title": "All brokers",
+    "searchPlaceholder": "Search broker name...",
+    "regulator": "Regulator",
+    "minDeposit": "Min. deposit",
+    "platforms": "Platforms"
+  },
+  "rebates": {
+    "title": "Rebates overview",
+    "subtitle": "Compare rebate levels across brokers for your favourite instruments.",
+    "instrument": "Instrument",
+    "accountType": "Account type",
+    "rebatePerLot": "Rebate (USD / lot)"
+  },
+  "insights": {
+    "title": "Cloud Speed Insights",
+    "subtitle": "Market context, cost analysis, and execution views powered by Cloud Speed.",
+    "today": "Today",
+    "thisWeek": "This week",
+    "goldVolatility": "Gold showing increased volatility",
+    "goldAnalysis": "XAU/USD has been ranging with potential breakout signals. Higher volatility makes spread and net cost control more important.",
+    "costAdvantage": "Cost advantage",
+    "forexStability": "EUR/USD consolidating at key level",
+    "forexAnalysis": "EUR/USD is testing a key support zone with central bank policy in focus. Longer holding strategies may benefit from swap-friendly accounts.",
+    "stableExecution": "Stable execution",
+    "jpyWeakness": "USD/JPY approaching intervention zone",
+    "jpyAnalysis": "With USD/JPY elevated, intervention risk is higher. Traders may prefer brokers with strong regulation and execution quality.",
+    "wellRegulated": "Well regulated",
+    "marketView": "Cloud Speed Market View",
+    "lowestCostOn": "Lowest net cost on",
+    "marketInsights": "Market Insights",
+    "suggestedBroker": "Suggested broker",
+    "readyToTrade": "Ready to reduce your trading costs?",
+    "compareBrokers": "Compare brokers and find the lowest net cost for your trading style."
+  }
+}

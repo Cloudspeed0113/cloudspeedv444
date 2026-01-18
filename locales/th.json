@@ -1,0 +1,84 @@
+{
+  "nav": {
+    "home": "หน้าแรก",
+    "brokers": "โบรกเกอร์",
+    "compare": "เปรียบเทียบ",
+    "insights": "อินไซต์",
+    "rebates": "รีเบต",
+    "about": "เกี่ยวกับ Cloud Speed",
+    "login": "เข้าสู่ระบบ",
+    "signup": "สมัครสมาชิก",
+    "dashboard": "แดชบอร์ด",
+    "logout": "ออกจากระบบ"
+  },
+  "hero": {
+    "title": "ลดต้นทุนการเทรด และเก็บกำไรไว้มากขึ้น.",
+    "subtitle": "เปรียบเทียบสเปรด คอมมิชชั่น และรีเบตของโบรกเกอร์ที่มีใบอนุญาตทั่วโลก – รีเบตจ่ายโดยโบรกเกอร์โดยตรง.",
+    "cta1": "เริ่มเปรียบเทียบ",
+    "cta2": "เรียนรู้เรื่องรีเบต"
+  },
+  "common": {
+    "openWithRebate": "เปิดบัญชีพร้อมรีเบต",
+    "viewBroker": "ดูข้อมูลโบรกเกอร์",
+    "viewAllBrokers": "ดูโบรกเกอร์ทั้งหมด",
+    "visitSite": "ไปที่เว็บไซต์",
+    "contactToList": "ติดต่อเพื่อนำมาลิสต์",
+    "learnMore": "เรียนรู้เพิ่มเติม",
+    "getStarted": "เริ่มต้นเลย",
+    "continue": "ดำเนินการต่อ",
+    "back": "ย้อนกลับ",
+    "loading": "กำลังโหลด...",
+    "noData": "ยังไม่มีข้อมูล.",
+    "comingSoon": "เร็ว ๆ นี้",
+    "costUnit": "USD/lot"
+  },
+  "compare": {
+    "step1": "ผลิตภัณฑ์",
+    "step2": "สไตล์การเทรด",
+    "step3": "ความสำคัญด้านต้นทุน",
+    "step4": "ผลลัพธ์",
+    "recommendedTitle": "โบรกเกอร์แนะนำ",
+    "otherBrokersTitle": "โบรกเกอร์ที่เหมาะสมอื่น ๆ",
+    "execution": "การส่งคำสั่ง",
+    "cost": "ต้นทุน",
+    "match": "ความเหมาะสม",
+    "autoRebate": "รีเบตอัตโนมัติ",
+    "manualRebate": "รีเบตแบบแจ้งขอ",
+    "seeDetails": "ดูรายละเอียด"
+  },
+  "brokers": {
+    "title": "โบรกเกอร์ทั้งหมด",
+    "searchPlaceholder": "ค้นหาชื่อโบรกเกอร์...",
+    "regulator": "หน่วยงานกำกับดูแล",
+    "minDeposit": "เงินฝากขั้นต่ำ",
+    "platforms": "แพลตฟอร์มเทรด"
+  },
+  "rebates": {
+    "title": "ภาพรวมรีเบต",
+    "subtitle": "เปรียบเทียบระดับรีเบตตามผลิตภัณฑ์ (USD / lot).",
+    "instrument": "ประเภทธุรกรรม",
+    "accountType": "ประเภทบัญชี",
+    "rebatePerLot": "รีเบต (USD / lot)"
+  },
+  "insights": {
+    "title": "Cloud Speed Insights",
+    "subtitle": "Market context, cost analysis, and execution views powered by Cloud Speed.",
+    "today": "Today",
+    "thisWeek": "This week",
+    "goldVolatility": "Gold showing increased volatility",
+    "goldAnalysis": "XAU/USD has been ranging with potential breakout signals. Higher volatility makes spread and net cost control more important.",
+    "costAdvantage": "Cost advantage",
+    "forexStability": "EUR/USD consolidating at key level",
+    "forexAnalysis": "EUR/USD is testing a key support zone with central bank policy in focus. Longer holding strategies may benefit from swap-friendly accounts.",
+    "stableExecution": "Stable execution",
+    "jpyWeakness": "USD/JPY approaching intervention zone",
+    "jpyAnalysis": "With USD/JPY elevated, intervention risk is higher. Traders may prefer brokers with strong regulation and execution quality.",
+    "wellRegulated": "Well regulated",
+    "marketView": "Cloud Speed Market View",
+    "lowestCostOn": "Lowest net cost on",
+    "marketInsights": "Market Insights",
+    "suggestedBroker": "Suggested broker",
+    "readyToTrade": "Ready to reduce your trading costs?",
+    "compareBrokers": "Compare brokers and find the lowest net cost for your trading style."
+  }
+}
