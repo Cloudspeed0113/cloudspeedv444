@@ -1,84 +1,117 @@
 {
   "nav": {
-    "home": "首页",
-    "brokers": "经纪商",
-    "compare": "对比",
+    "home": "首頁",
+    "compare": "對比",
     "insights": "洞察",
-    "rebates": "返佣",
-    "about": "关于 Cloud Speed",
-    "login": "登录",
-    "signup": "注册",
-    "dashboard": "控制台",
-    "logout": "退出登录"
-  },
-  "hero": {
-    "title": "降低你的交易成本，把利润留在自己口袋。",
-    "subtitle": "对比全球受监管经纪商的点差、佣金与返佣方案，返佣由经纪商直接支付。",
-    "cta1": "开始智能对比",
-    "cta2": "了解返佣机制"
+    "brokers": "平台",
+    "login": "登入",
+    "getStarted": "開始使用"
   },
   "common": {
-    "openWithRebate": "返佣开户",
-    "viewBroker": "查看经纪商",
-    "viewAllBrokers": "查看所有经纪商",
-    "visitSite": "访问官网",
-    "contactToList": "联系上线平台",
-    "learnMore": "了解更多",
-    "getStarted": "立即开始",
-    "continue": "继续",
-    "back": "返回",
-    "loading": "加载中...",
-    "noData": "暂无数据，稍后再来看看。",
-    "comingSoon": "即将上线",
-    "costUnit": "USD/手"
+    "broker": "平台",
+    "region": "区域",
+    "regulation": "监管",
+    "minDeposit": "最低入金",
+    "spreadCost": "点差成本",
+    "rebate": "返佣",
+    "netCost": "净成本",
+    "actions": "操作",
+    "openWithRebate": "带返佣开户"
+  },
+  "home": {
+    "heroTitle": "降低交易成本，把更多利润留给自己。",
+    "heroSubtitle": "Cloud Speed 对比多家平台的交易成本与返佣，让你更清楚资金应该放在哪里。",
+    "pillars": {
+      "cost": "更低的综合交易成本",
+      "independent": "独立、不托管资金",
+      "multibroker": "多平台覆盖"
+    },
+    "ctaPrimary": "打开对比",
+    "ctaSecondary": "查看洞察",
+    "disclaimer": "Cloud Speed 不是经纪商，也不经手客户资金。返佣由各平台自己发放。",
+    "snapshotTitle": "今日快照 · XAUUSD",
+    "snapshotSubtitle": "基于典型点差和返佣假设的每手净成本示意。",
+    "instrumentLabel": "品种",
+    "bestBrokerLabel": "当前净成本最低平台",
+    "howItWorksTitle": "Cloud Speed 如何运作",
+    "how": {
+      "steps": [
+        {
+          "title": "选择交易品种",
+          "text": "从黄金或主要货币对开始，后续会逐步覆盖更多热门品种。"
+        },
+        {
+          "title": "查看综合成本",
+          "text": "同时看到点差、返佣与预估净成本，各平台一目了然。"
+        },
+        {
+          "title": "带返佣开户",
+          "text": "在你喜欢的平台开户，返佣通过平台现有系统自动发放。"
+        }
+      ]
+    },
+    "whoTitle": "Cloud Speed 适合谁",
+    "who": {
+      "traders": {
+        "title": "主动交易者",
+        "text": "日内、波段、剥头皮等对成本敏感的交易者。"
+      },
+      "ea": {
+        "title": "EA 与跟单用户",
+        "text": "对点差、滑点和执行质量敏感的系统化策略。"
+      },
+      "ib": {
+        "title": "IB 与社区负责人",
+        "text": "需要用透明方式给成员展示不同平台成本差异的人。"
+      }
+    },
+    "modulesTitle": "产品模块",
+    "modules": {}
+  },
+  "modules": {
+    "compare": {
+      "title": "成本对比",
+      "text": "针对核心品种，对比多个平台的点差、返佣与预估净成本。"
+    },
+    "insights": {
+      "title": "市场洞察",
+      "text": "围绕成本与执行的视角，帮助你理解在哪些场景成本最关键。"
+    },
+    "brokers": {
+      "title": "平台库",
+      "text": "Cloud Speed 合作平台列表，附带关键信息与成本备注。"
+    }
   },
   "compare": {
-    "step1": "交易品种",
-    "step2": "交易风格",
-    "step3": "成本偏好",
-    "step4": "推荐结果",
-    "recommendedTitle": "推荐经纪商",
-    "otherBrokersTitle": "其他适合的经纪商",
-    "execution": "成交质量",
-    "cost": "综合成本",
-    "match": "匹配度",
-    "autoRebate": "自动返佣",
-    "manualRebate": "手动返佣",
-    "seeDetails": "查看详情"
-  },
-  "brokers": {
-    "title": "全部经纪商",
-    "searchPlaceholder": "搜索经纪商名称...",
-    "regulator": "监管机构",
-    "minDeposit": "最低入金",
-    "platforms": "交易平台"
-  },
-  "rebates": {
-    "title": "返佣一览",
-    "subtitle": "对比不同经纪商在主要品种上的返佣水平（单位：USD / 手）。",
-    "instrument": "品种类别",
-    "accountType": "账户类型",
-    "rebatePerLot": "返佣（USD / 手）"
+    "title": "XAUUSD 平台成本对比",
+    "subtitle": "点差成本、返佣与预估每手净成本的示意对比数据，仅供参考。",
+    "note": "所有数据仅作展示示例，不代表实时行情。请以平台官网和交易服务器实际为准。"
   },
   "insights": {
-    "title": "Cloud Speed 市场洞察",
-    "subtitle": "结合市场背景、交易成本与执行质量，为交易者提供 Cloud Speed 风格的中立视角。",
-    "today": "今天",
-    "thisWeek": "本周",
-    "goldVolatility": "黄金波动率走高",
-    "goldAnalysis": "近期 XAU/USD 在区间震荡并多次试探突破位置，波动加大时，点差与综合成本控制更为关键。",
-    "costAdvantage": "成本优势",
-    "forexStability": "欧元兑美元在关键位置震荡整理",
-    "forexAnalysis": "EUR/USD 正在关键支撑附近盘整，在央行政策不明朗的阶段，偏长线持仓更适合选择隔夜成本友好的账户类型。",
-    "stableExecution": "稳定执行",
-    "jpyWeakness": "美元兑日元接近潜在干预区间",
-    "jpyAnalysis": "在 USD/JPY 维持高位的环境下，官方干预风险提升，更需要选择监管完善且成交质量稳定的经纪商。",
-    "wellRegulated": "监管完善",
-    "marketView": "Cloud Speed 市场视图",
-    "lowestCostOn": "综合成本最低的经纪商",
-    "marketInsights": "市场洞察",
-    "suggestedBroker": "推荐经纪商",
-    "readyToTrade": "准备好降低你的交易成本了吗？",
-    "compareBrokers": "对比不同经纪商，为你的交易风格找到更低的综合交易成本。"
+    "title": "Cloud Speed 成本洞察",
+    "subtitle": "以成本为核心的市场与执行视角。",
+    "marketViewTitle": "围绕关键品种的成本与执行",
+    "marketViewText": "将这里与你自己的图表结合使用。Cloud Speed 只聚焦成本，不给方向建议，策略完全由你掌控。",
+    "chartPlaceholder": "图表组件占位区，后续可以嵌入 TradingView 或其他图表服务。",
+    "blocks": {
+      "costTitle": "综合成本意识",
+      "costText": "点差、佣金、隔夜利息与返佣叠加在一起，换个角度看平台会完全不一样。",
+      "executionTitle": "执行质量同样重要",
+      "executionText": "对高频或 EA 策略而言，滑点与成交质量往往比 0.几美金的点差差异更关键。",
+      "riskTitle": "不触碰客户资金",
+      "riskText": "Cloud Speed 只做信息与成本层，不触碰资金。你直接在受监管的平台交易。"
+    }
+  },
+  "brokers": {
+    "title": "支持的平台",
+    "subtitle": "Cloud Speed 不推荐任何单一平台，只呈现结构与成本信息，最终选择由你决定。"
+  },
+  "auth": {
+    "loginTitle": "登录（功能开发中）",
+    "loginSubtitle": "之后你可以在这里查看各平台的汇总返佣信息。",
+    "loginPlaceholder": "后端正在开发中，目前无需登录即可使用对比与洞察功能。",
+    "signupTitle": "注册账户（功能开发中）",
+    "signupSubtitle": "账号系统会在公共对比功能稳定后上线。",
+    "signupPlaceholder": "现在你可以直接使用 Cloud Speed 的公开工具，无需创建账户。"
   }
 }

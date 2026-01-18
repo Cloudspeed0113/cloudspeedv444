@@ -1,84 +1,117 @@
 {
   "nav": {
-    "home": "หน้าแรก",
-    "brokers": "โบรกเกอร์",
-    "compare": "เปรียบเทียบ",
-    "insights": "อินไซต์",
-    "rebates": "รีเบต",
-    "about": "เกี่ยวกับ Cloud Speed",
-    "login": "เข้าสู่ระบบ",
-    "signup": "สมัครสมาชิก",
-    "dashboard": "แดชบอร์ด",
-    "logout": "ออกจากระบบ"
-  },
-  "hero": {
-    "title": "ลดต้นทุนการเทรด และเก็บกำไรไว้มากขึ้น.",
-    "subtitle": "เปรียบเทียบสเปรด คอมมิชชั่น และรีเบตของโบรกเกอร์ที่มีใบอนุญาตทั่วโลก – รีเบตจ่ายโดยโบรกเกอร์โดยตรง.",
-    "cta1": "เริ่มเปรียบเทียบ",
-    "cta2": "เรียนรู้เรื่องรีเบต"
+    "home": "Ana səhifə",
+    "compare": "Müqayisə et",
+    "insights": "Baxışlar",
+    "brokers": "Brokerlər",
+    "login": "Daxil ol",
+    "getStarted": "Başla"
   },
   "common": {
-    "openWithRebate": "เปิดบัญชีพร้อมรีเบต",
-    "viewBroker": "ดูข้อมูลโบรกเกอร์",
-    "viewAllBrokers": "ดูโบรกเกอร์ทั้งหมด",
-    "visitSite": "ไปที่เว็บไซต์",
-    "contactToList": "ติดต่อเพื่อนำมาลิสต์",
-    "learnMore": "เรียนรู้เพิ่มเติม",
-    "getStarted": "เริ่มต้นเลย",
-    "continue": "ดำเนินการต่อ",
-    "back": "ย้อนกลับ",
-    "loading": "กำลังโหลด...",
-    "noData": "ยังไม่มีข้อมูล.",
-    "comingSoon": "เร็ว ๆ นี้",
-    "costUnit": "USD/lot"
+    "broker": "Broker",
+    "region": "Region",
+    "regulation": "Regulation",
+    "minDeposit": "Min. deposit",
+    "spreadCost": "Spread cost",
+    "rebate": "Rebate",
+    "netCost": "Net cost",
+    "actions": "Actions",
+    "openWithRebate": "Open with rebate"
+  },
+  "home": {
+    "heroTitle": "Reduce your trading costs. Keep more of your edge.",
+    "heroSubtitle": "Cloud Speed compares trading costs and rebates across multiple brokers so you don’t have to guess where your capital is treated best.",
+    "pillars": {
+      "cost": "Lower all-in trading cost",
+      "independent": "Independent, non‑custodial",
+      "multibroker": "Multi‑broker coverage"
+    },
+    "ctaPrimary": "Launch Compare",
+    "ctaSecondary": "View Insights",
+    "disclaimer": "Cloud Speed is not a broker and never handles client funds. Rebates are paid directly by the brokers.",
+    "snapshotTitle": "Today’s snapshot · XAUUSD",
+    "snapshotSubtitle": "Illustrative net cost per lot based on typical spread and rebate assumptions.",
+    "instrumentLabel": "Instrument",
+    "bestBrokerLabel": "Lowest net cost broker",
+    "howItWorksTitle": "How Cloud Speed works",
+    "how": {
+      "steps": [
+        {
+          "title": "Select your product",
+          "text": "Start from XAUUSD or major FX pairs — more symbols will be added as liquidity is mapped."
+        },
+        {
+          "title": "Compare all‑in costs",
+          "text": "See typical spread, rebate and estimated net cost side‑by‑side across supported brokers."
+        },
+        {
+          "title": "Open with rebate",
+          "text": "Open an account with the broker you prefer. Rebates are paid through the broker’s own system."
+        }
+      ]
+    },
+    "whoTitle": "Who Cloud Speed is for",
+    "who": {
+      "traders": {
+        "title": "Active traders",
+        "text": "Scalpers, intraday and swing traders who care about every pip of cost."
+      },
+      "ea": {
+        "title": "EA & copy traders",
+        "text": "Systematic strategies that are sensitive to spread, swap and execution quality."
+      },
+      "ib": {
+        "title": "IBs & communities",
+        "text": "Leaders who want a transparent way to show members where costs are lower."
+      }
+    },
+    "modulesTitle": "Product modules",
+    "modules": {}
+  },
+  "modules": {
+    "compare": {
+      "title": "Compare",
+      "text": "Benchmark all‑in trading costs and rebates across multiple brokers for key instruments."
+    },
+    "insights": {
+      "title": "Insights",
+      "text": "Market context and cost‑focused views that help you understand where cost and execution matter most."
+    },
+    "brokers": {
+      "title": "Brokers",
+      "text": "A curated list of brokers Cloud Speed works with, including key stats and cost notes."
+    }
   },
   "compare": {
-    "step1": "ผลิตภัณฑ์",
-    "step2": "สไตล์การเทรด",
-    "step3": "ความสำคัญด้านต้นทุน",
-    "step4": "ผลลัพธ์",
-    "recommendedTitle": "โบรกเกอร์แนะนำ",
-    "otherBrokersTitle": "โบรกเกอร์ที่เหมาะสมอื่น ๆ",
-    "execution": "การส่งคำสั่ง",
-    "cost": "ต้นทุน",
-    "match": "ความเหมาะสม",
-    "autoRebate": "รีเบตอัตโนมัติ",
-    "manualRebate": "รีเบตแบบแจ้งขอ",
-    "seeDetails": "ดูรายละเอียด"
-  },
-  "brokers": {
-    "title": "โบรกเกอร์ทั้งหมด",
-    "searchPlaceholder": "ค้นหาชื่อโบรกเกอร์...",
-    "regulator": "หน่วยงานกำกับดูแล",
-    "minDeposit": "เงินฝากขั้นต่ำ",
-    "platforms": "แพลตฟอร์มเทรด"
-  },
-  "rebates": {
-    "title": "ภาพรวมรีเบต",
-    "subtitle": "เปรียบเทียบระดับรีเบตตามผลิตภัณฑ์ (USD / lot).",
-    "instrument": "ประเภทธุรกรรม",
-    "accountType": "ประเภทบัญชี",
-    "rebatePerLot": "รีเบต (USD / lot)"
+    "title": "Compare broker costs on XAUUSD",
+    "subtitle": "Illustrative comparison of spread cost, rebate and estimated net cost per lot. Data is indicative only.",
+    "note": "Figures are for illustration only and may not reflect current live trading conditions. Always verify details on the broker’s own website."
   },
   "insights": {
     "title": "Cloud Speed Insights",
-    "subtitle": "Market context, cost analysis, and execution views powered by Cloud Speed.",
-    "today": "Today",
-    "thisWeek": "This week",
-    "goldVolatility": "Gold showing increased volatility",
-    "goldAnalysis": "XAU/USD has been ranging with potential breakout signals. Higher volatility makes spread and net cost control more important.",
-    "costAdvantage": "Cost advantage",
-    "forexStability": "EUR/USD consolidating at key level",
-    "forexAnalysis": "EUR/USD is testing a key support zone with central bank policy in focus. Longer holding strategies may benefit from swap-friendly accounts.",
-    "stableExecution": "Stable execution",
-    "jpyWeakness": "USD/JPY approaching intervention zone",
-    "jpyAnalysis": "With USD/JPY elevated, intervention risk is higher. Traders may prefer brokers with strong regulation and execution quality.",
-    "wellRegulated": "Well regulated",
-    "marketView": "Cloud Speed Market View",
-    "lowestCostOn": "Lowest net cost on",
-    "marketInsights": "Market Insights",
-    "suggestedBroker": "Suggested broker",
-    "readyToTrade": "Ready to reduce your trading costs?",
-    "compareBrokers": "Compare brokers and find the lowest net cost for your trading style."
+    "subtitle": "Cost‑first perspectives on markets, instruments and execution.",
+    "marketViewTitle": "Cost & execution around key instruments",
+    "marketViewText": "Use this section together with your own charts. Cloud Speed focuses on cost, not direction, so you stay in control of your strategy.",
+    "chartPlaceholder": "Chart widget placeholder — you can embed TradingView or your preferred charting later.",
+    "blocks": {
+      "costTitle": "All‑in cost awareness",
+      "costText": "Spread, commissions, swaps and rebates all interact. Seeing them together changes how you evaluate brokers.",
+      "executionTitle": "Execution quality matters",
+      "executionText": "For high‑frequency or EA trading, slippage and fill quality can matter more than a small spread difference.",
+      "riskTitle": "Non‑custodial by design",
+      "riskText": "Cloud Speed does not touch your funds. You trade directly with brokers regulated in their own jurisdictions."
+    }
+  },
+  "brokers": {
+    "title": "Supported brokers",
+    "subtitle": "Cloud Speed does not recommend or endorse any single broker. We highlight cost and structural characteristics so you can decide."
+  },
+  "auth": {
+    "loginTitle": "Log in (coming soon)",
+    "loginSubtitle": "In a later phase, you’ll be able to see aggregated rebate information across brokers.",
+    "loginPlaceholder": "Backend integration is under development. For now, use Compare and Insights without logging in.",
+    "signupTitle": "Create account (coming soon)",
+    "signupSubtitle": "Account features will arrive after the public Compare release.",
+    "signupPlaceholder": "Registration is not required to use Cloud Speed’s public compare and insight tools."
   }
 }
