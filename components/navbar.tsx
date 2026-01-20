@@ -23,7 +23,6 @@ export function Navbar() {
           <nav className="nav-links">
             <Link href="/">{t.nav.home}</Link>
             <Link href="/compare">{t.nav.compare}</Link>
-            <Link href="/insights">{t.nav.insights}</Link>
             <Link href="/brokers">{t.nav.brokers}</Link>
           </nav>
         </div>
