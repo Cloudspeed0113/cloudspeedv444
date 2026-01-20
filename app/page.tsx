@@ -21,7 +21,6 @@ function Hero() {
             <Link href="/compare" className="btn btn-primary">
               {t.home.ctaPrimary}
             </Link>
-            <Link href="/insights" className="btn">
               {t.home.ctaSecondary}
             </Link>
           </div>
@@ -126,8 +125,6 @@ function Modules() {
             <div className="card-text">{t.modules.compare.text}</div>
           </div>
           <div className="card">
-            <div className="card-title">{t.modules.insights.title}</div>
-            <div className="card-text">{t.modules.insights.text}</div>
           </div>
           <div className="card">
             <div className="card-title">{t.modules.brokers.title}</div>
